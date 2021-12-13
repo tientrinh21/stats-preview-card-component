@@ -41,7 +41,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [Github](https://github.com/tientrinh21/stats-preview-card-component)
-- Live Site URL: [Netliify](https://preview-card-tientrinh.netlify.app/)
+- Live Site URL: [Netlify](https://preview-card-tientrinh.netlify.app/)
 
 ## My process
 
